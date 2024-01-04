@@ -1,4 +1,4 @@
-<p align="center"><img src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif" width="500" height="300"></p>
+<p align="center"><img src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif" width="600" height="300"></p>
 
 <h1 align="center">Hello rawon tumpah👋 I code for fun🚀</h1>
 
