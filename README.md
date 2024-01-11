@@ -1,6 +1,17 @@
 <p align="center"><img src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif" width="600" height="300"></p>
 
+###
+
 <h1 align="center">Hello rawon tumpah👋 I code for fun🚀</h1>
+
+###
+
+<p align="left">
+  📈 Data & Design Enthusiast 🎨 <br> 
+  📊 <a href="https://www.novypro.com/profile_projects/fathin-al-fikri" style="text-decoration:none; color: inherit;">Visit me in novyPro!</a> ✨ <br>
+  📼 Passionate about Music and Films 🎥</p>
+
+###
 
 <h2 align="center"> 🛠️  Languages and Tools  🛠️<h2>
 <div align="center">
