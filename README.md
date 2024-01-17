@@ -32,4 +32,5 @@
   <img src="https://github.com/PytoPylano/PytoPylano/blob/main/Icon/Figma.png" height="40" alt="Figma Icon" />
   <img src="https://github.com/PytoPylano/PytoPylano/blob/main/Icon/Tableau.png" height="40" alt="Tablea Icon" />
   <img src="https://github.com/PytoPylano/PytoPylano/blob/main/Icon/Power%20BI.png" height="40" alt="Power BI Icon" />
+  <img src="https://github.com/PytoPylano/PytoPylano/blob/main/Icon/SSMS.png" height="40" alt="Power BI Icon" />
 </div>
