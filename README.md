@@ -12,8 +12,8 @@
   📼 Passionate about Music and Films 🎥</p> <br>
 
   🛸 Check my designs here! : <br>
-  🖌️ <a href="https://www.novypro.com/profile_projects/fathin-al-fikri" style="text-decoration:none; color: inherit;">Behance</a>  <br>
-  🖍️ <a href="https://www.novypro.com/profile_projects/fathin-al-fikri" style="text-decoration:none; color: inherit;">Dribbble</a> <br>
+  🖌️ <a href="https://www.behance.net/fathin-al-fikri" style="text-decoration:none; color: inherit;">Behance</a>  <br>
+  🖍️ <a href="https://dribbble.com/fathin_al-fikri" style="text-decoration:none; color: inherit;">Dribbble</a> <br>
 
 ###
 
