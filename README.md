@@ -9,7 +9,11 @@
 <p align="left">
   📈 Data & Design Enthusiast 🎨 <br> 
   📊 <a href="https://www.novypro.com/profile_projects/fathin-al-fikri" style="text-decoration:none; color: inherit;">Visit me in novyPro!</a> ✨ <br>
-  📼 Passionate about Music and Films 🎥</p>
+  📼 Passionate about Music and Films 🎥</p> <br>
+
+  🛸 Check my designs here! : <br>
+  🖌️ <a href="https://www.novypro.com/profile_projects/fathin-al-fikri" style="text-decoration:none; color: inherit;">Behance</a>  <br>
+  🖍️ <a href="https://www.novypro.com/profile_projects/fathin-al-fikri" style="text-decoration:none; color: inherit;">Dribbble</a> <br>
 
 ###
 
